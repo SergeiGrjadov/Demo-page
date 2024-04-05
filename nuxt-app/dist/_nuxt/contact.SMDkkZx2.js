@@ -1,0 +1,1 @@
+import{_ as e,v as t,t as c,x as o}from"./entry.XXaGiQ4W.js";const s={},n=o("p",{class:"test1"},"heelo world",-1),a=[n];function r(_,l){return c(),t("div",null,a)}const f=e(s,[["render",r]]);export{f as default};

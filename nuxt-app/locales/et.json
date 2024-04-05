@@ -1,0 +1,60 @@
+{
+  "name": "Nimi",
+  "email": "Email",
+  "number": "Telefoni number",
+  "message": "Sisu",
+  "send": "Saada",
+  "introduction": {
+    "title": "Demo leht",
+    "subtitle1": "Olen kohe kooli lõpetamas ja loodetavasti saab minust sinu tulevane super-arendaja. Hetkel kogemusi veel ei ole, kui selle kompenseerin sulle vabal ajal erineva tehnoloogia kohta lugemise ja katsetamisega. Tulevaselt tööandjalt ootan võimalusi kasvamiseks, keerulisemai projekte ja veel rohkem väljakutsei.",
+    "subtitle2": "Siit saad tutvuda valminud töödega:"
+  },
+  "hobbies": {
+    "hobbies": "Hobid",
+    "basketball": "Korvpall, ",
+    "program": "Programmeerimine, ",
+    "computergames": "Arvutimängud, ",
+    "tablegamse": "Lauamängud, "
+  },
+  "work": {
+    "work": "Töö kogemus",
+    "info": "Otsin esimest IT ameti kogemust."
+  },
+  "menu": {},
+  "footer": {},
+  "experince": {},
+  "skills": {
+    "skills": "Oskused",
+    "program": "Programmeerimine",
+    "teamwork": "Meeskonna töö",
+    "open": "Avatud mõtlemine",
+    "responsible": "Vastutustundlik",
+    "high_stress_tolerance": "Kõrge stressitaluvusega",
+    "independent": "Iseseisev",
+    "listening_skill": "Kuulamis oskus",
+    "explicit": "Detailne",
+    "critical_thinking": "Kriitiline mõtlemine",
+    "adaptability": "Kohanemis oskus",
+    "multitasking": "Multitasking",
+    "inventive_approach": "Leidlik lähenemine",
+    "fast_learner": "Kiire õppija",
+    "emotional_intelligence": "emotsionaalne intelligentsus",
+    "eagerness_to_learn": "õpihimu/uudishimulik"
+  },
+  "education": {
+    "education": "Haridus"
+  },
+  "languages": {
+    "languages": "Keeled",
+    "estonia": "Eesti keel",
+    "english": "Inglise keel",
+    "russian": "Vene keel"
+  },
+  "contact": {
+    "connect": "Kui tekkis küsimusi või soov võtta ühendust, siis täitke all olev vorm"
+  },
+  "about": {},
+  "computerSkills": {
+    "computer": "Arvuti oskused"
+  }
+}

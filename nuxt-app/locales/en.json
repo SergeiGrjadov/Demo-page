@@ -1,0 +1,61 @@
+{
+  "name": "Name",
+  "email": "Email",
+  "number": "Phone number",
+  "message": "Content",
+  "send": "Send",
+  "introduction": {
+    "title": "Demo page",
+    "subtitle1": "I'm about to graduate and hopefully I'll be your future super developer. I don't have any experience at the moment, but I will compensate you by reading and experimenting with different technologies in my free time. I expect opportunities for growth, more complex projects and even more challenges from my future employer.",
+    "subtitle2": "Here you can see the completed works: "
+
+  },
+  "work": {
+    "work": "Work experience",
+    "info": "looking for first experience in an IT"
+  },
+  "menu": {},
+  "footer": {},
+  "experince": {},
+  "skills": {
+    "skills": "Skills",
+    "program": "Programming",
+    "teamwork": "Teamwork",
+    "open": "Open minded",
+    "responsible": "Responsible",
+    "high_stress_tolerance": "High stress tolerance",
+    "independent": "Independent",
+    "listening_skill": "Listening skill",
+    "explicit": "Explicit",
+    "critical_thinking": "Critical_thinking",
+    "adaptability": "Adaptability",
+    "multitasking": "Multitasking",
+    "inventive_approach": "Inventive approach",
+    "fast_learner": "Fast learner",
+    "emotional_intelligence": "Emotional intelligence",
+    "eagerness_to_learn": "Eagerness to learn"
+  },
+  "education": {
+    "education": "Education"
+  },
+  "hobbies": {
+    "hobbies": "Hobbies",
+    "basketball": "Basketball, ",
+    "program": "Programming, ",
+    "computergames": "Computer games, ",
+    "tablegamse": "Board games, "
+  },
+  "languages": {
+    "languages": "Languages",
+    "estonia": "Estonian",
+    "english": "English",
+    "russian": "Russian"
+  },
+  "about": {},
+  "contact": {
+    "connect": "If you have any questions or wish to get in touch, please fill out the form below"
+  },
+  "computerSkills": {
+    "computer": "Computer skills"
+  }
+}
